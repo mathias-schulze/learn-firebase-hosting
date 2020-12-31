@@ -1,18 +1,18 @@
 # Learn Firebase Hosting
 
 ## init
-'''bash
+```bash
 firebase init
-'''
+```
 
 ## test
-'''bash
+```bash
 firebase emulators:start
-'''
+```
 
 http://localhost:5000/
 
 ## deploy
-'''bash
+```bash
 firebase deploy
-'''
+```
